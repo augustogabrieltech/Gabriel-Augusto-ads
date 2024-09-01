@@ -13,7 +13,8 @@
 
 ---
 
-### Competências e Certificações 🚀
+### Algumas competências e certificações adquiridas na minha jornada🚀
+
 | Tecnologias | Certificados |
 |-------------|--------------|
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | [Certificado JavaScript](https://plataforma.refatorando.com.br/certificado/?cert-nonce=c83b8e0b2b&token=a3gxVDhybW5DWXBReTFqVVpzUS9DZz09) |
