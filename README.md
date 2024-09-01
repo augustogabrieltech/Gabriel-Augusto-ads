@@ -22,6 +22,7 @@
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |  [Competência](#)|
 | ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) | [Certificado .NET](https://hermes.dio.me/certificates/cover/BHPJ2DZ0.jpg) |
 | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) | [Certificado Git](https://hermes.dio.me/certificates/cover/PRUBOBHQ.jpg) |
+| ![C#](https://img.shields.io/badge/C%23-0078D4?style=for-the-badge&logo=c-sharp&logoColor=white) | [Certificado C#](https://hermes.dio.me/certificates/cover/77ISIGXK.jpg) |
 
 ---
 ### Ferramentas usadas no projeto 🛠️
