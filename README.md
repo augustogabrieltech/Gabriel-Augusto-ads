@@ -54,7 +54,7 @@
 
 ### Obrigado por visitar meu profile! 
 
-#### Espero que tenha gostado do conteúdo. Até a próxima! 👋
+#### Espero que tenha gostado do conteúdo 👋
 
 ---
 
