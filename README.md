@@ -13,7 +13,7 @@
 
 ---
 
-### Algumas competências e certificações adquiridas na minha jornada🚀
+### Algumas competências e certificações adquiridas na minha jornada
 
 | Tecnologias | Certificados |
 |-------------|--------------|
@@ -26,7 +26,7 @@
 | ![C#](https://img.shields.io/badge/C%23-0078D4?style=for-the-badge&logo=c-sharp&logoColor=white) | [Certificado C#](https://hermes.dio.me/certificates/cover/77ISIGXK.jpg) |
 
 ---
-### Ferramentas usadas no projeto 🛠️
+### Ferramentas usadas no projeto 
 
 |  Ferramenta      | Logo                                                                                   |
 |------------|-----------------------------------------------------------------------------------------|
@@ -37,7 +37,7 @@
 
 ---
   
-### Contato  🌍
+### Contato
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=20&labelColor=black&shape=round)](https://wa.me/5516992153271)
 &nbsp;&nbsp;&nbsp;
@@ -49,13 +49,4 @@
 &nbsp;&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20&labelColor=black&shape=round)](https://github.com/Gabriel-Augusto-ads)
 
-
-
----
-
-#### Obrigado por visitar! 
-
-#### Espero que tenha gostado 👋
-
----
 
