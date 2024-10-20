@@ -1,5 +1,5 @@
-### Olá! Eu sou Gabriel Augusto.
-### Seja bem-vindo ao meu GitHub 👋
+### Meu nome é Gabriel Augusto.
+### Seja bem-vindo.
 
 ---
 
