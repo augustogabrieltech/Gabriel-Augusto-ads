@@ -21,7 +21,7 @@
 | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) | [Certificado GitHub](https://hermes.dio.me/certificates/cover/PRUBOBHQ.jpg) |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | [Certificado HTML5](https://plataforma.refatorando.com.br/certificado/?cert-nonce=26b6b342e0&token=MGUwYTBIb1FCSnBaN2RFVHhkcGF1dz09) |
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |  [Competência](#)|
-| ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) | [Certificado .NET](https://hermes.dio.me/certificates/cover/BHPJ2DZ0.jpg) |
+| ![Banco de Dados](https://img.shields.io/badge/Banco%20de%20Dados-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | [Certificado Banco de Dados](https://hermes.dio.me/certificates/cover/XGFDU757.jpg) |
 | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) | [Certificado Git](https://hermes.dio.me/certificates/cover/PRUBOBHQ.jpg) |
 | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | [Certificado Java](https://hermes.dio.me/certificates/cover/KMRTQ6KS.jpg) |
 
