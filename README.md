@@ -1,11 +1,9 @@
-### Meu nome é Gabriel Augusto.
-### Seja bem-vindo.
+## Sobre Mim
 
----
+Sou um entusiasta de tecnologia e inovação, graduado em **Análise e Desenvolvimento de Sistemas** pela **Universidade Paulista (UNIP)**.  
+Foco meu desenvolvimento nas linguagens **Java** e **Kotlin**, com o objetivo de criar soluções eficientes, escaláveis e centradas no usuário.
 
-### Sobre Mim 📝
-
-### Sou entusiasta por tecnologia e inovação. Atualmente, estou estudando *Análise e Desenvolvimento de Sistemas* na *Universidade Paulista (UNIP)*. Tenho um profundo interesse em criar soluções tecnológicas que sejam inovadoras e eficientes. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e contribuir com projetos que impulsionem a criatividade e a eficiência.
+Busco constantemente novos aprendizados e desafios que me permitam aplicar conhecimentos práticos em projetos reais, com ênfase na criação de aplicações móveis e back-end robustos.
 
 ---
 
