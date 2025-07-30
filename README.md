@@ -1,13 +1,9 @@
-## Sobre Mim
+### Sobre Mim
 
 Sou um entusiasta de tecnologia e inovação, graduado em **Análise e Desenvolvimento de Sistemas** pela **Universidade Paulista (UNIP)**.  
 Foco meu desenvolvimento nas linguagens **Java** e **Kotlin**, com o objetivo de criar soluções eficientes, escaláveis e centradas no usuário.
 
 Busco constantemente novos aprendizados e desafios que me permitam aplicar conhecimentos práticos em projetos reais, com ênfase na criação de aplicações móveis e back-end robustos.
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gabriel-Augusto-ads&theme=highcontrast&hide_border=falso)](https://git.io/streak-stats)
 
 ---
 
